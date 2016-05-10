@@ -37,7 +37,7 @@ import java.net.URL;
 public class MainActivityFragment extends Fragment {
 
     /********* ADD YOUR API KEY HERE*************/
-    final String TMDB_API_KEY="Enter key here";
+    final String TMDB_API_KEY="Enter you API key here";
     /*************add api key above*********************/
 
     String name []={"Refresh to see"};
